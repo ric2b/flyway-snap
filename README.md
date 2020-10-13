@@ -1,1 +1,1 @@
-liquibase-snap
+flyway-snap
