@@ -1,5 +1,5 @@
 name: flyway
-version: 8.4.2
+version: 7.15.0
 summary: Version control for your database
 description: |
     Version control for your database.
